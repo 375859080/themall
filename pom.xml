@@ -18,6 +18,9 @@
         <module>renren-fast</module>
         <module>renren-generator</module>
         <module>mall-commom</module>
+        <module>mall-gateway</module>
+        <module>mall-search</module>
+        <module>mall-third-party</module>
     </modules>
 
 
