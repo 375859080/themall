@@ -1,0 +1,14 @@
+package com.huang.mall.search.constant;
+
+/**
+ * @AUTHOR: raymond
+ * @DATETIME: 2020/5/13  22:46
+ * DESCRIPTION:
+ **/
+public class EsConstant {
+
+    public static final String PRODUCT_INDEX = "product";
+
+    public static final Integer PRODUCT_PAGE_SIZE = 16;
+
+}
